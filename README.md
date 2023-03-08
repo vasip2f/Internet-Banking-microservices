@@ -1,4 +1,4 @@
-[![Java CI with Gradle](https://github.com/javatodev/internet-banking-concept-microservices/actions/workflows/gradle.yml/badge.svg)](https://github.com/javatodev/internet-banking-concept-microservices/actions/workflows/gradle.yml)
+
 
 # Internet Banking Concept With Java Spring Boot Microservices
 
@@ -42,33 +42,3 @@ alt="Spring Boot Microservices Project Architecture By Javatodev.com"/></a>
 16. Kubernetes
 17. Keycloak
 
-Article series 
-
-[1. Building Microservices With Spring Boot – Free Course With Practical Project](https://javatodev.com/building-microservices-with-spring-boot-free-course-with-practical-project/)
-
-[2. Microservices – Service Registration and Discovery With Spring Cloud Netflix Eureka](https://javatodev.com/microservices-service-registration-and-discovery-with-spring-cloud-netflix-eureka/)
-
-[3. Microservices – Setup API Gateway Using Spring Cloud Gateway](https://javatodev.com/microservices-setup-api-gateway-using-spring-cloud-gateway/)
-
-[4. Microservices – Authentication, and Authorization With Keycloak](https://javatodev.com/microservices-authentication-and-authorization-with-keycloak/)
-
-[5. Microservices – Core Banking Service Implementation](https://javatodev.com/microservices-core-banking-service-implementation/)
-
-[6. Microservices – User Service Implementation](https://javatodev.com/microservices-user-service-implementation/)
-
-[7. Microservices – Fund Transfer Service Implementation](https://javatodev.com/microservices-fund-transfer-service-implementation/)
-
-[8. Microservices – Utility Payment Service Implementation](https://javatodev.com/microservices-utility-payment-service-implementation/)
-
-[9. Microservices – Communication With Spring Cloud OpenFeign](https://javatodev.com/microservices-communication-with-spring-cloud-openfeign/)
-
-[10. Microservices – Exception Handling](https://javatodev.com/microservices-exception-handling/)
-
-[11. Microservices – Centralized Configurations With Spring Cloud Config](https://javatodev.com/microservices-centralized-configurations-with-spring-cloud-config/)
-
-#### Author
-
-<h1 align="center">Hi 👋, I'm Chinthaka Dinadasa</h1>
-<h3 align="center">A Passionate Java Fullstack Developer from Sri Lanka and Author of JavatoDev.com</h3>
-
-<p align="left"> <a href="https://twitter.com/spbootdeveloper" target="blank"><img src="https://img.shields.io/twitter/follow/spbootdeveloper?logo=twitter&style=for-the-badge" alt="spbootdeveloper" /></a> </p>
